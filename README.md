@@ -1,18 +1,19 @@
-# Build and Deploy a Responsive Website | Beginner HTML CSS Tutorial on How to Make a Website in 2023
-![Sushi](https://i.ibb.co/dBxww2c/Sushi.png)
+# Sushiman
+### Feel the taste of Japanese food
+![Sushi](https://i.ibb.co/xMsSzyg/sushiman.png)
 
-## Introduction
-Are you wondering how to make a website using #HTML and #CSS? Join me today to create a modern, fully responsive HTML & CSS website with animations!
- 
-In this course, you will learn how to:
-- Use CSS variables
-- Import CSS files into other CSS files
-- Use flex and position properties in CSS
-- Create smooth and subtle animations
-- Use the BEM naming method
-- Maintain a well-organized file and folder structure
--  Embrace the principles of writing clean code
+## Sushiman: Your Passport to Japanese Culinary Excellence
 
-## Want to land your dream programming job in 3 - 6 months?
-⭐ JSM Masterclass Experience - https://jsmastery.pro/masterclass
-Become a Software Engineer. Guaranteed.
+Step into Sushiman, where Japan's culinary artistry comes to life in the heart of our city. Our restaurant marries tradition and innovation, promising a memorable dining adventure that transports you straight to Tokyo.
+
+### Elegance & Serenity:
+Sushiman's serene, minimalist ambiance sets the stage for an unforgettable experience, combining natural wood accents and Japanese-inspired art.
+
+### Masterful Sushi:
+Our expert sushi chefs craft each piece with precision and passion, offering classics like Nigiri, inventive Maki rolls, and delicate Sashimi.
+
+### Fresh & Sustainable:
+We're committed to freshness and sustainability, sourcing top-quality, environmentally responsible ingredients for your guilt-free indulgence.
+
+### Beyond Sushi:
+Our diverse menu offers miso soup, tempura, ramen, and more. There's something for every palate.
